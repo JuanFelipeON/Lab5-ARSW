@@ -4,6 +4,9 @@
 
 LABORATORIO 5 ARSW
 
+- Javier Fernando Silva León
+- Juan Felipe Ortiz Niño
+
 
 
 
