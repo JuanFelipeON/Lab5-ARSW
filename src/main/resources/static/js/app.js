@@ -4,6 +4,8 @@
  * and open the template in the editor.
  */
 
-(function () {
-  // code
+var ModuloControl = (function () {
+    var privateMethod = function () {
+        // do something
+    };
 })();
